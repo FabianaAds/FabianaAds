@@ -1,4 +1,4 @@
-## Olá, eu sou a Fabiana Alves!
+## Hello, I'm Fabiana, I work as a QA.
 <div align="center">
   <a href="https://github.com/FabianaAds">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabianaAds&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
