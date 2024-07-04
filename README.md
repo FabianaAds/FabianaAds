@@ -1,41 +1,29 @@
-## 👋 Olá, eu sou Fabiana!
+## Hello, I'm Fabiana!
 
-### Profissional de QA com Experiência Abrangente em Garantia de Qualidade de Software
+### QA Professional with Extensive Experience in Software Quality Assurance
 
-Como QA, possuo uma experiência robusta e diversificada em todas as fases do ciclo de desenvolvimento de software, com foco em assegurar a qualidade e a excelência dos produtos. Colaboro estreitamente com equipes de desenvolvimento, aplicando uma variedade de técnicas e abordagens de teste para garantir um software funcional e livre de defeitos.
+As a QA professional, I have robust and diverse experience across all phases of the software development lifecycle, focusing on ensuring product quality and excellence. I closely collaborate with development teams, applying a variety of testing techniques and approaches to ensure functional and defect-free software.
 
-Tenho expertise no planejamento, desenvolvimento e execução de planos e casos de teste, tanto manuais quanto automatizados. Minha abordagem inclui a análise crítica de requisitos e critérios de aceitação, assegurando que todos os aspectos do software sejam meticulosamente avaliados antes do lançamento.
+I have expertise in planning, developing, and executing test plans and cases, both manual and automated. My approach includes critically analyzing requirements and acceptance criteria, ensuring thorough evaluation of all software aspects before release.
 
-Minhas habilidades incluem:
+#### Skills:
+- **Manual Testing:** Proficient in black-box testing techniques, identifying flaws and ensuring product integrity.
+- **Automated Testing:** Practical experience in test automation, including end-to-end (E2E) testing covering complete user flows.
+- **Functional Testing:** Implementing strategies to ensure detailed evaluation of software performance, usability, and functionality.
 
-- **Testes Manuais:** Domínio em técnicas de teste caixa preta, identificando falhas e assegurando a integridade do produto final.
-- **Testes Automatizados:** Experiência prática em automação de testes, incluindo testes de ponta a ponta (E2E) que abrangem fluxos completos de usuário.
-- **Testes Funcionais:** Implementação de estratégias que garantem uma avaliação detalhada da performance, usabilidade e funcionalidade do software.
-
-Com um olhar crítico e atenção aos detalhes, conduzo atividades de teste de forma eficaz, contribuindo para a entrega de produtos de alta qualidade. Estou comprometida com a melhoria contínua dos processos de QA e com a satisfação dos clientes, solucionando problemas potenciais e otimizando a qualidade final do software.
-
-🔗 Confira meu perfil no GitHub para mais informações e exemplos de meu trabalho: [github.com/FabianaAds](https://github.com/FabianaAds).
+With a critical eye and attention to detail, I conduct testing activities effectively, contributing to the delivery of high-quality products. I am committed to continuous improvement of QA processes and customer satisfaction, addressing potential issues and optimizing final software quality.
 
 ---
 
-<div align="center">
-  <a href="https://github.com/FabianaAds">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabianaAds&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/FabianaAds">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianaAds&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
-
-## 🚀 Minhas Habilidades
+## 🚀 My skills
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Fabiana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fabiana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fabiana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fabiana-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fabiana-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fabiana-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fabiana-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Fabiana-Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Fabiana-Cypress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg">
+  <img align="center" alt="Fabiana-Cypress" height="40" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4">
 </div>
 
 ##
@@ -44,5 +32,3 @@ Com um olhar crítico e atenção aos detalhes, conduzo atividades de teste de f
   <a href="https://www.instagram.com/_faadsamie/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabianads/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-
