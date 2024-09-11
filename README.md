@@ -24,7 +24,11 @@ With a critical eye and attention to detail, I conduct testing activities effect
   <img align="center" alt="Fabiana-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Fabiana-Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="Fabiana-Cypress" height="40" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4">
+  <img align="center" alt="Fabiana-Cucumber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
+  <img align="center" alt="Fabiana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Fabiana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
 
 ##
 
